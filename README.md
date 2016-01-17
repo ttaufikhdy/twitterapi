@@ -1,2 +1,2 @@
 # twitterapi
-sourcode twitter api with yii framerowk
+sourcode twitter api with yii framework and mongodb database
